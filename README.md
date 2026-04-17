@@ -33,7 +33,7 @@ npm run dev
 - Export reports
 
 ## 🌐 Live Demo
-(Add after deployment)
+https://monthlyfintrack.netlify.app/
 
 ## 👤 Author
 Sudarshan Mishra  
