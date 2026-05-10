@@ -13,19 +13,6 @@ A modern expense tracking application built with React to manage budgets, track 
 ## 🛠 Tech Stack
 React 18 | Vite | Context API + useReducer | Recharts | localStorage | CSS Variables
 
-## 📁 Folder Structure
-src/
-├── features/
-├── shared/
-├── context/
-├── App.jsx
-├── main.jsx
-
-## ⚙️ Run Locally
-git clone <repo-link>
-npm install
-npm run dev
-
 ## 🔮 Future Improvements
 - Backend integration (Supabase)
 - Authentication
